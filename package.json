@@ -20,7 +20,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "html-loader": "^1.1.0",
-    "postcss": "^7.0.28",
+    "postcss": "^8.2.10",
     "postcss-cli": "^7.1.1",
     "postcss-loader": "^3.0.0",
     "style-loader": "^1.2.1",
